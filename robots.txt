@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brick-makers.netlify.app/sitemap.xml
